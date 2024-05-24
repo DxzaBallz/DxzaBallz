@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DxzaBallz
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning HTML
+- 🐙 Im working on a Website
 - 📫 How to reach me dxzaballz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started to use a PC when i was 5 :)
